@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SW/HW Info</string>
+    <string name="tab_text_1">Device Info</string>
+    <string name="tab_text_2">SOC Info</string>
+    <string name="tab_text_3">CPU Info</string>
+    <string name="tab_text_4">Memory Info</string>
+    <string name="tab_text_5">OS Info</string>
+    <string name="tab_text_6">Sensors Info</string>
+</resources>
